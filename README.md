@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Soy estudiante de Ingeniería Informática y también Frontend Developer, busco un puesto de tiempo completo donde pueda aplicar mis conocimientos y habilidades para seguir mejorando. Me gusta trabajar en equipo y mantener un buena comunicación.
+
+#Aptitudes
+Estas son algunas de las tecnologías que tengo conocimiento.
